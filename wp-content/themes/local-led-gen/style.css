@@ -1,0 +1,17 @@
+/*
+Theme Name: Tree Pros Connect
+Theme URI: https://treeprosconnect.com
+Author: Tree Pros Connect
+Author URI: https://treeprosconnect.com
+Description: A custom WordPress theme for Tree Pros Connect.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.6
+Requires PHP: 7.4
+Text Domain: local-led-gen
+*/
+
+/*
+Required by WordPress for theme detection.
+Primary styling is loaded from assets/styles.css via functions.php.
+*/
